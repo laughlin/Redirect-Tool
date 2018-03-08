@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/raferguson/Redirect-Tool/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/raferguson/Redirect-Tool/rachael)
 
 RACHAELLLLLL RULEZZZZZ
 
