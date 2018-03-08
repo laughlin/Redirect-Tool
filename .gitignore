@@ -100,4 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 .DS_Store
-RedirectTools/include/python3.6m
+
+# Ignore env files
+RedirectTools/*
