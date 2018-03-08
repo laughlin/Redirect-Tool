@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/raferguson/Redirect-Tool/Devi_version)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/raferguson/Redirect-Tool/devi_version)
 
 
 This is my change
