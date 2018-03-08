@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/raferguson/Redirect-Tool/master)
 
+CARLOS
+
 # master-lock-seo-scripts
 Holds Jupyter Notebooks containing python script used to automate the implementation and testing of SEO updates
 
