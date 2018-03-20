@@ -1,9 +1,6 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/raferguson/Redirect-Tool/rachael)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/raferguson/Redirect-Tool/master)
 
-RACHAELLLLLL RULEZZZZZ
-
-
-# master-lock-seo-scripts
+# Automated Testing
 Holds Jupyter Notebooks containing python script used to automate the implementation and testing of SEO updates
 
 # How to run in browser
