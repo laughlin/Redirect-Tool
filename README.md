@@ -9,10 +9,10 @@ Click on the above "Launch Binder" button. This will open the notebook in browse
 ## Alternative way to run the notebook
 Python 3.x, pip, and virtualenv must be installed. Then, from the main directory folder of the repo, call
 ```
-$ virtualenv master-lock-seo-scripts-env
-$ source master-lock-seo-scripts-env/bin/activate
-(master-lock-seo-scripts-env) $ pip install -r requirements.txt
-(master-lock-seo-scripts-env) $ jupyter notebook
+$ virtualenv redirect-tester
+$ source redirect-tester/bin/activate
+(redirect-tester) $ pip install -r requirements.txt
+(redirect-tester) $ jupyter notebook
 ```
 
 ## Alternative way 3 to run the notebook
@@ -24,13 +24,13 @@ Then, navigate to this repo in your folder structure
 Install virtual env and then create an environment based on the requirements.txt file located at the base directory of the repo.
 ```
 $ pip install virtualenv
-$ virtualenv master-lock-seo-scripts-env
-$ source master-lock-seo-scripts-env/bin/activate
-(master-lock-seo-scripts-env) $ pip install -r requirements.txt
+$ virtualenv redirect-tester
+$ source redirect-tester/bin/activate
+(redirect-tester) $ pip install -r requirements.txt
 ```
 
 Once this is installed, open Jupyter Notebooks by going to your command prompt terminal and typing:
 
-`(master-lock-seo-scripts-env) $ jupyter notebook`
+`(redirect-tester) $ jupyter notebook`
 
 This will open Jupyter Notebook in your browser. You can then navigate to this repo and select the repo. Then, 
